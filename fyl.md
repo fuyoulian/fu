@@ -6,7 +6,7 @@
 
 [到标记文件](README.md)
 
-![](fu\photo.jpg)
+![](fu/photo.jpg)
 
 ![](https://img2.baidu.com/it/u=3884696342,748367806&fm=26&fmt=auto&gp=0.jpg)
 
