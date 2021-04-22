@@ -6,9 +6,9 @@
 
 [到标记文件](README.md)
 
-![](https://github.com/fuyoulian/fu/photo.jpg)
+![本地图片](https://github.com/fuyoulian/fu/blob/main/photo.jpg)
 
-![](https://img2.baidu.com/it/u=3884696342,748367806&fm=26&fmt=auto&gp=0.jpg)
+![web图片](https://img2.baidu.com/it/u=3884696342,748367806&fm=26&fmt=auto&gp=0.jpg)
 
 ```“`python 
 print(‘代码块’) 
