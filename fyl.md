@@ -10,9 +10,9 @@
 
 ![](https://img2.baidu.com/it/u=3884696342,748367806&fm=26&fmt=auto&gp=0.jpg)
 
-```“`python 
+``` 
 print(‘代码块’) 
-```“` 
+``` 
 
 > 区块引用 
 
